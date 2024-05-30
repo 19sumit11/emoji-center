@@ -61,6 +61,13 @@ const emojipedia = [
     name: "Sweat smile",
     meaning:
       "Used to depict a close call but is also often used in awkward situations during a chat"
+  },
+  {
+    id: 10,
+    emoji: "😀",
+    name: "Grinning",
+    meaning:
+      "It conveys cheerfulness and joy towards something positive"
   }
 ];
 
