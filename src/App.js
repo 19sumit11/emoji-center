@@ -8,7 +8,11 @@ function App() {
   return (
     <div>
       <div className="creater">
+<<<<<<< HEAD
         <h3 >By Sumit Kumar Shriwastava</h3>
+=======
+        <h3 >By Amit Giri</h3>
+>>>>>>> a66c5df32adcce5157490e981d908572fa970004
       </div>
       <h1>
         <span>Emoji Center</span>
