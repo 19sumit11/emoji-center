@@ -39,7 +39,7 @@ const emojipedia = [
     emoji: "😄",
     name: "Smile",
     meaning:
-      "The smile emoji depicts a person’s happiness when sending a greeting text or simply used to compliment something or the other ."
+      "The smile emoji depicts a person’s happiness when sending a greeting text or simply used to compliment something or the other."
   },
   {
     id: 7,
@@ -61,16 +61,6 @@ const emojipedia = [
     name: "Sweat smile",
     meaning:
       "Used to depict a close call but is also often used in awkward situations during a chat"
-<<<<<<< HEAD
-  } ,
-  {
-    id: 10,
-    emoji: "😀",
-    name: "Grinning",
-    meaning:
-      "It conveys cheerfulness and joy towards something positive"
-=======
->>>>>>> a66c5df32adcce5157490e981d908572fa970004
   }
 ];
 
